@@ -1,0 +1,28 @@
+SIMULATED | deadline first leg: end of 2026-11-12 | PO 24,000 @ €14.2
+
+Option G (Admin proposal): 24,000 u | component €431,700 + transport €2,990 = €434,690 | premium vs PO price €90,900 | deadline planned OK / worst OK | covers PO yes | worst-case cover to end 2026-11-22
+   SIM-S016 9,000u SIM-RT-02 Road LTL groupage: planned 2026-11-11 / worst 2026-11-12 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €390 | rel 0.90 risk Low-Medium
+   SIM-S017 15,000u SIM-RT-04 Express van: planned 2026-11-12 / worst 2026-11-13 (leg deadline 2026-11-16) | 15,000×€16.90=€253,500 + €2,600 | rel 0.87 risk Low-Medium
+
+Option A: 24,000 u | component €431,700 + transport €3,380 = €435,080 | premium vs PO price €90,900 | deadline planned OK / worst OK | covers PO yes | worst-case cover to end 2026-11-22
+   SIM-S016 9,000u SIM-RT-01 Road FTL: planned 2026-11-10 / worst 2026-11-11 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €780 | rel 0.90 risk Low
+   SIM-S017 15,000u SIM-RT-04 Express van: planned 2026-11-12 / worst 2026-11-13 (leg deadline 2026-11-16) | 15,000×€16.90=€253,500 + €2,600 | rel 0.87 risk Low-Medium
+
+Option B: 24,000 u | component €431,700 + transport €1,960 = €433,660 | premium vs PO price €90,900 | deadline planned OK / worst OK | covers PO yes | worst-case cover to end 2026-11-22
+   SIM-S016 9,000u SIM-RT-01 Road FTL: planned 2026-11-10 / worst 2026-11-11 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €780 | rel 0.90 risk Low
+   SIM-S017 15,000u SIM-RT-03 Road FTL: planned 2026-11-13 / worst 2026-11-14 (leg deadline 2026-11-16) | 15,000×€16.90=€253,500 + €1,180 | rel 0.87 risk Medium
+
+Option C: 24,000 u | component €397,200 + transport €2,730 = €399,930 | premium vs PO price €56,400 | deadline planned OK / worst OK | covers PO yes | worst-case cover to end 2026-11-22
+   SIM-S016 9,000u SIM-RT-01 Road FTL: planned 2026-11-10 / worst 2026-11-11 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €780 | rel 0.90 risk Low
+   SIM-S018 15,000u SIM-RT-05 Road FTL: planned 2026-11-15 / worst 2026-11-16 (leg deadline 2026-11-16) | 15,000×€14.60=€219,000 + €1,950 | rel 0.78 risk Medium
+
+Option D: 24,000 u | component €407,700 + transport €2,500 = €410,200 | premium vs PO price €66,900 | deadline planned MISS / worst MISS | covers PO yes | worst-case cover to end 2026-11-16
+   SIM-S016 9,000u SIM-RT-01 Road FTL: planned 2026-11-10 / worst 2026-11-11 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €780 | rel 0.90 risk Low
+   SIM-S019 15,000u SIM-RT-08 Road FTL: planned 2026-11-17 / worst 2026-11-18 (leg deadline 2026-11-16) | 15,000×€15.30=€229,500 + €1,720 | rel 0.93 risk Low
+
+Option E: 20,000 u | component €338,000 + transport €3,250 = €341,250 | premium vs PO price €54,000 | deadline planned OK / worst MISS | covers PO NO | worst-case cover to end 2026-11-20
+   SIM-S017 20,000u SIM-RT-04 Express van: planned 2026-11-12 / worst 2026-11-13 (leg deadline 2026-11-12) | 20,000×€16.90=€338,000 + €3,250 | rel 0.87 risk Low-Medium
+
+Option F: 29,000 u | component €516,200 + transport €4,030 = €520,230 | premium vs PO price €104,400 | deadline planned OK / worst OK | covers PO yes | worst-case cover to end 2026-11-24
+   SIM-S016 9,000u SIM-RT-01 Road FTL: planned 2026-11-10 / worst 2026-11-11 (leg deadline 2026-11-12) | 9,000×€19.80=€178,200 + €780 | rel 0.90 risk Low
+   SIM-S017 20,000u SIM-RT-04 Express van: planned 2026-11-12 / worst 2026-11-13 (leg deadline 2026-11-16) | 20,000×€16.90=€338,000 + €3,250 | rel 0.87 risk Low-Medium

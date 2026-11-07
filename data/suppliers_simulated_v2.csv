@@ -1,0 +1,21 @@
+Data label,Supplier ID,Supplier name,Component ID,Component,Component availability,Max order quantity (units),Unit price (€),Supplier lead time to ready-to-ship (days),Earliest ready-to-ship date (if ordered 2026-11-07),Reliability score,Location,"Covers 24,000-unit PO alone"
+SIMULATED,SIM-S001,Rheinwerk Bremssysteme GmbH,COMP-BC-201,Brake caliper,Disrupted,0,48.50,35,2026-12-12,0.91,"Koblenz, Germany",n/a
+SIMULATED,SIM-S002,Alpenstahl Komponenten AG,COMP-BC-201,Brake caliper,Available,12000,52.80,10,2026-11-17,0.88,"Linz, Austria",n/a
+SIMULATED,SIM-S003,Vistula Brake Parts Sp. z o.o.,COMP-BC-201,Brake caliper,Available,18000,44.90,14,2026-11-21,0.79,"Poznań, Poland",n/a
+SIMULATED,SIM-S004,Lombarda Freni S.p.A.,COMP-BC-201,Brake caliper,Limited,4500,57.20,7,2026-11-14,0.94,"Brescia, Italy",n/a
+SIMULATED,SIM-S005,Elbtal Kabelsysteme GmbH,COMP-WH-202,Wiring harness,Available,8000,126.00,12,2026-11-19,0.93,"Dresden, Germany",n/a
+SIMULATED,SIM-S006,Moravia Harness s.r.o.,COMP-WH-202,Wiring harness,Available,15000,109.50,16,2026-11-23,0.84,"Brno, Czech Republic",n/a
+SIMULATED,SIM-S007,Carpathia Wire Tech S.R.L.,COMP-WH-202,Wiring harness,Limited,5000,97.00,21,2026-11-28,0.72,"Timișoara, Romania",n/a
+SIMULATED,SIM-S008,Isar Halbleiter GmbH,COMP-MC-203,Microcontroller (MCU),Disrupted,0,7.40,60,2027-01-06,0.90,"Regensburg, Germany",n/a
+SIMULATED,SIM-S009,Eindhoven Chipworks B.V.,COMP-MC-203,Microcontroller (MCU),Limited,40000,8.90,28,2026-12-05,0.92,"Eindhoven, Netherlands",n/a
+SIMULATED,SIM-S010,Grenoble Microsystèmes SAS,COMP-MC-203,Microcontroller (MCU),Available,90000,9.60,21,2026-11-28,0.86,"Grenoble, France",n/a
+SIMULATED,SIM-S011,Neckar Batteriemodule GmbH,COMP-BM-205,Battery cell module,Available,2500,1840.00,30,2026-12-07,0.89,"Heilbronn, Germany",n/a
+SIMULATED,SIM-S012,Nordic Cell Systems AB,COMP-BM-205,Battery cell module,Limited,1200,1765.00,42,2026-12-19,0.81,"Västerås, Sweden",n/a
+SIMULATED,SIM-S013,Danube Energy Packs Kft.,COMP-BM-205,Battery cell module,Available,3000,1690.00,25,2026-12-02,0.76,"Győr, Hungary",n/a
+SIMULATED,SIM-S014,Weser Sitzstruktur GmbH,COMP-SF-206,Seat frame,Available,6000,212.00,9,2026-11-16,0.95,"Bremen, Germany",n/a
+SIMULATED,SIM-S015,Ebro Asientos S.L.,COMP-SF-206,Seat frame,Available,7500,188.00,18,2026-11-25,0.83,"Zaragoza, Spain",n/a
+SIMULATED,SIM-S016,Oberpfalz Sensorik GmbH,COMP-ES-204,Automotive Electronic Sensors,Limited,9000,19.80,3,2026-11-10,0.90,"Amberg, Germany",No
+SIMULATED,SIM-S017,Tirol Sensortechnik GmbH,COMP-ES-204,Automotive Electronic Sensors,Available,20000,16.90,5,2026-11-12,0.87,"Innsbruck, Austria",No
+SIMULATED,SIM-S018,Silesia Sensor Systems Sp. z o.o.,COMP-ES-204,Automotive Electronic Sensors,Available,35000,14.60,7,2026-11-14,0.78,"Wrocław, Poland",Yes
+SIMULATED,SIM-S019,Twente Sensor Solutions B.V.,COMP-ES-204,Automotive Electronic Sensors,Available,28000,15.30,9,2026-11-16,0.93,"Enschede, Netherlands",Yes
+SIMULATED,SIM-S020,Banat Electronic Components S.R.L.,COMP-ES-204,Automotive Electronic Sensors,Available,60000,12.40,15,2026-11-22,0.70,"Arad, Romania",Yes
